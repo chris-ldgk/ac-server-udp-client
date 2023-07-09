@@ -6,7 +6,7 @@
   "dependencies": {
     "smart-buffer": "^4.2.0"
   },
-  "name": "ac-server-udp-client",
+  "name": "@chris-ldgk/ac-server-udp-client",
   "version": "0.0.2",
   "description": "A (strongly typed) UDP client for Assetto Corsa server based on germanrcuriel/assetto-corsa-server-udp2ws",
   "files": [
