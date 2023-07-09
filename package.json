@@ -1,0 +1,38 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "smart-buffer": "^4.2.0"
+  },
+  "name": "ac-server-udp-client",
+  "version": "1.0.0",
+  "description": "A (strongly typed) UDP client for Assetto Corsa server based on germanrcuriel/assetto-corsa-server-udp2ws",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-ldgk/ac-server-udp-client.git"
+  },
+  "keywords": [
+    "Assetto",
+    "Corsa",
+    "Server",
+    "Assetto",
+    "Corsa",
+    "Server",
+    "UDP",
+    "client",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Christoph Kolb",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/chris-ldgk/ac-server-udp-client/issues"
+  },
+  "homepage": "https://github.com/chris-ldgk/ac-server-udp-client#readme"
+}
