@@ -7,7 +7,7 @@
     "smart-buffer": "^4.2.0"
   },
   "name": "ac-server-udp-client",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A (strongly typed) UDP client for Assetto Corsa server based on germanrcuriel/assetto-corsa-server-udp2ws",
   "files": [
     "dist"
