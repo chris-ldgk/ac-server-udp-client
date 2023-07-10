@@ -7,14 +7,15 @@
     "smart-buffer": "^4.2.0"
   },
   "name": "ac-server-udp-client",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A (strongly typed) UDP client for Assetto Corsa server based on germanrcuriel/assetto-corsa-server-udp2ws",
   "files": [
     "dist"
   ],
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc -p tsconfig.json"
+    "build": "tsc -p tsconfig.json",
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
