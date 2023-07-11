@@ -7,7 +7,7 @@
     "smart-buffer": "^4.2.0"
   },
   "name": "ac-server-udp-client",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A (strongly typed) UDP client for Assetto Corsa server based on germanrcuriel/assetto-corsa-server-udp2ws",
   "files": [
     "dist"
@@ -22,12 +22,10 @@
     "url": "git+https://github.com/chris-ldgk/ac-server-udp-client.git"
   },
   "keywords": [
-    "Assetto",
-    "Corsa",
-    "Server",
-    "Assetto",
-    "Corsa",
-    "Server",
+    "Assetto Corsa",
+    "Assetto Corsa Server",
+    "Assetto Corsa Server plugin",
+    "plugin",
     "UDP",
     "client",
     "typescript",
